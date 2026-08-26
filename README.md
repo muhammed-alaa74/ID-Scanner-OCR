@@ -21,9 +21,9 @@ structured fields — Organization, Name, Phone, Email, Address — using
 keyword-anchored regex instead of brittle fixed line positions, so it holds up
 across different card layouts.
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 **[ID Scanner OCR · Streamlit](https://id-scanner-ocr.streamlit.app/)**
+**[ID Scanner OCR · Streamlit](https://id-scanner-ocr.streamlit.app/)**
 
 <div align="center">
   <img src="assets/screenshot_upload.png" width="49%" alt="Upload screen" />
